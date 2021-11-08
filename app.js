@@ -1,3 +1,8 @@
+/**
+ * Ahsana Tasnim
+ * JavaScriptExercise10
+ */
+
 // Create a div
 let myDiv = document.createElement('div');
 // Set Attributes
