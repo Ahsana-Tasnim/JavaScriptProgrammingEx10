@@ -30,6 +30,7 @@ myButton.setAttribute('class', 'myButton');
 myButton.innerHTML = "Click Me";
 //Add button to div
 // myDiv.appendChild(myButton);
+
 //Add button before paragragh
 myDiv.insertBefore(myButton, newParagraph);
 
